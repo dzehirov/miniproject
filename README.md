@@ -54,7 +54,7 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 
 # Section - 5 Sources
 
-[Link](https://github.com/tejranu/miniproject/blob/master/Sources) :point_left:
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%205%20Sources.md) :point_left:
 
 
 # Changelog
