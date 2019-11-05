@@ -4,6 +4,7 @@
 ### Daniel Zehirov
 ### David Tchintchin
 # Section - 1 Command - David Tchintchin
+[Link]():point_left:
   Section that explains commands and gives example(s) usage for use Vi (Links to an external site.) to create and edit files on Linux and the basic commands that you need to manage the file system:
 
 Questions to answer: What is it? Why do you do it? How do you do it?
@@ -20,6 +21,7 @@ Questions to answer: What is it? Why do you do it? How do you do it?
 10. Using up and down arrow for history
 
 # Section - 2 Gitflow and Workflow - Tej Ranu
+[Link]():point_left:
 Explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
 1. Repository
@@ -36,6 +38,7 @@ Explain the gitFlow (Links to an external site.) workflow and have a section to 
 12. Master Branch
 
 # Section - 3 Collaboration - Daniek Zehirov
+[Link]():point_left:
 Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.  You must explain the concept of branching and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.   
 
 1. Forking vs Cloning
@@ -44,8 +47,9 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 
 
 # Section - 4 Improving the productivity and competitiveness of a company
-
+[Link]():point_left:
 
 # Section - 5 Sources
-
+[Link]():point_left:
 # MiniProject-1 Image
+[Link]():point_left:
