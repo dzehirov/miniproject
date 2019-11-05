@@ -22,7 +22,7 @@ Questions to answer: What is it? Why do you do it? How do you do it?
 
 # Section - 2 Gitflow and Workflow - Tej Ranu
 
-[Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%202%20Gitflow%20and%20Workflow):point_left:
+[Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%202%20Gitflow%20and%20Workflow.md):point_left:
 
 Explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
