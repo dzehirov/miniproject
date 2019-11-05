@@ -20,6 +20,9 @@ Questions to answer: What is it? Why do you do it? How do you do it?
 10. Using up and down arrow for history
 
 # Section - 2 Gitflow and Workflow - Tej Ranu
+
+[Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%202%20Gitflow%20and%20Workflow):point_left:
+
 Explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
 1. Repository
@@ -59,3 +62,7 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 - Daniel Zehirov requested a pull
 
 # MiniProject-1 Image
+=======
+[Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%204%20Improving%20the%20productivity%20and%20competitiveness%20of%20a%20company):point_left:
+
+
