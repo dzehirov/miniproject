@@ -41,3 +41,8 @@
     * This 'history' command is used to list the commands previously executed.
     * This command is used to show which commands the user ran recently. Previously used commands can be executed from the command as well.
     * To use this command, the user will open the command prompt and simply enter 'history' into the command prompt. To execute a previous command in the history list, the user will type '!' and the number next to the command in the history list.
+
+8. Home directory (~)
+    * The home directory is the main directory for every linux user. 
+    * This is where the user stores all personal information related to the user. This command is used to quickly navigate to that directory.
+    * To use this command, the user will enter the command prompt and enter 'cd' and '~' and the user will be sent to the home directory.
