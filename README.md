@@ -4,6 +4,7 @@
 ### Daniel Zehirov
 ### David Tchintchin
 # Section - 1 Command - David Tchintchin
+[Link](https://github.com/tejranu/miniproject/blob/master/Section%20-1%20Commands.md):point_left:
   Section that explains commands and gives example(s) usage for use Vi (Links to an external site.) to create and edit files on Linux and the basic commands that you need to manage the file system:
 
 Questions to answer: What is it? Why do you do it? How do you do it?
@@ -49,11 +50,11 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 3. Adding a collaborator to a Github Repo
 
 # Section - 4 Improving the productivity and competitiveness of a company
-
+[Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%204%20Improving%20the%20productivity%20and%20competitiveness%20of%20a%20company) :point_left:
 
 # Section - 5 Sources
 
-[Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%205%20Sources.md) :point_left:
+[Link](https://github.com/tejranu/miniproject/blob/master/Sources) :point_left:
 
 
 # Changelog
@@ -61,7 +62,6 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 - Daniel Zehirov requested a pull
 
 # MiniProject-1 Image
-=======
-[Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%204%20Improving%20the%20productivity%20and%20competitiveness%20of%20a%20company):point_left:
+[Link](https://github.com/tejranu/miniproject/blob/master/Annotation%202019-11-04%20210754.png):point_left:
 
 
