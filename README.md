@@ -40,7 +40,9 @@ Explain the gitFlow (Links to an external site.) workflow and have a section to 
 Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.  You must explain the concept of branching and how to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.   
 
 1. Forking vs Cloning
+
 2. Pull Request
+
 3. Adding a collaborator to a Github Repo
 
 
@@ -48,5 +50,6 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 
 
 # Section - 5 Sources
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%205%20Sources.md) :point_left:
 
 # MiniProject-1 Image
