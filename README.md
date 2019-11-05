@@ -54,10 +54,17 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 
 # Section - 5 Sources
 
-[Link](https://github.com/tejranu/miniproject/blob/master/Sources) :point_left:
+[Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%205%20Sources.md) :point_left:
 
 
 # Changelog
+- Tej Ranu created new repository
+- Tej Ranu created Section 1,2,3,4 and 5.
+- Tej Ranu uploaded Miniproject 1 image.
+- Tej Ranu created readme-edit branch
+- David Tchintchin created new branch
+- David Tchintchin created Section 1
+- David Tchintchin requested a pull
 - Daniel Zehirov created section 3
 - Daniel Zehirov requested a pull
 
