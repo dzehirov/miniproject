@@ -1,3 +1,9 @@
+### Section 1 - Command - [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command.md)
+- *Source 1*: https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
+- *Source 2*: https://www.geeksforgeeks.org/cp-command-linux-examples/#targetText=cp%20stands%20for%20copy.,two%20filenames%20in%20its%20arguments.
+- *Source 3*: http://www.linfo.org/home_directory.html#targetText=A%20home%20directory%2C%20also%20called,after%20logging%20into%20the%20system.
+- *Source 4*: https://www.howtogeek.com/195207/use-tab-completion-to-type-commands-faster-on-any-operating-system/
+
 ### Section 3 - Collaboration - [Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%203%20Collaboration.md)
 - *Source 1* https://guides.github.com/introduction/git-handbook/
 - *Source 2* https://help.github.com/en/articles/connecting-to-github-with-ssh
