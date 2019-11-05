@@ -46,3 +46,8 @@
     * The home directory is the main directory for every linux user. 
     * This is where the user stores all personal information related to the user. This command is used to quickly navigate to that directory.
     * To use this command, the user will enter the command prompt and enter 'cd' and '~' and the user will be sent to the home directory.
+
+9. file paths in linux
+    * The file path in a linux file is the location of the file.
+    * This is used to locate, manipulate, copy and remove files.
+    * You can get the file location by using the 'find' command followed by the name of the file.
