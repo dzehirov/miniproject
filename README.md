@@ -50,6 +50,6 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 [Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%204%20Improving%20the%20productivity%20and%20competitiveness%20of%20a%20company):point_left:
 
 # Section - 5 Sources
-[Link]():point_left:
+[Link](https://github.com/tejranu/miniproject/blob/master/Sources):point_left:
 # MiniProject-1 Image
 [Link]():point_left:
