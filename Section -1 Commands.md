@@ -31,3 +31,8 @@
     * This 'mv' command is used to move files and directories.
     * This command is used to move files to other locations or directories to other locations via command line. This makes the process of moving files around the file system simplier. This command can also be used to remame files. 
     * To use this command, enter the command prompt, enter 'mv', the file location and then the file location of the destination. To rename a file with command, enter 'mv', the file name and then the new desired file name.
+
+6. rm command
+    * This 'rm' command is used to remove files or directories from any given location.
+    * This command can remove any file or directory from the file system. 
+    * To use this command, enter the command prompt, enter 'rm' and the file name and location and the file will be removed.
