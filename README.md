@@ -50,6 +50,12 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 
 
 # Section - 5 Sources
+
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%205%20Sources.md) :point_left:
+
+
+# Changelog
+- Daniel Zehirov created section 3
+- Daniel Zehirov requested a pull
 
 # MiniProject-1 Image
