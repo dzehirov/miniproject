@@ -63,7 +63,6 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 - Daniel Zehirov requested a pull
 
 # MiniProject-1 Image
-=======
-[Link]():point_left:
+[Link](https://github.com/tejranu/miniproject/blob/master/Annotation%202019-11-04%20210754.png):point_left:
 
 
