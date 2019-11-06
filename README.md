@@ -56,7 +56,7 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 [Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%205%20Sources.md) :point_left:
 
 # Section - 6 Definitions of Terms for Mini-Project 2
-[link](https://github.com/tejranu/miniproject/blob/master/Section%20-%206%20Definitions%20of%20Terms%20for%20Mini-Porject%202.md) :point_left:
+[link](https://github.com/tejranu/miniproject/blob/master/Section%20-%206%20Definitions%20of%20Terms%20for%20Mini-Project%202.md) :point_left:
 1. How Python uses Indentation to control Flow
 2. Don't Repeat Yourself
 3. Design Patterns from Gang of Four

@@ -1,9 +1,9 @@
 # Definitions of Terms for Mini-Project 2
 
-##1. How Python uses Indentation to control Flow
+### 1. How Python uses Indentation to control Flow
 
 
-##2. Don't Repeat Yourself
+### 2. Don't Repeat Yourself
 
 
 ##3. Design Patterns from Gang of Four
