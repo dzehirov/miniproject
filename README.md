@@ -53,9 +53,26 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 [Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%204%20Improving%20the%20productivity%20and%20competitiveness%20of%20a%20company.md) :point_left:
 
 # Section - 5 Sources
-
 [Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%205%20Sources.md) :point_left:
 
+# Section - 6 Definitions of Terms for Mini-Project 2
+[link]() :point_left:
+1. How Python uses Indentation to control Flow
+2. Don't Repeat Yourself
+3. Design Patterns from Gang of Four
+4. Class
+5. Object
+6. Static
+7. Property/Attribute
+8. Method
+9. Exception
+10. Unit Test
+11. Constructor
+12. Factory
+13. Decorator
+14. Extend Class
+15. CSV Files
+16. Reading Files
 
 # Changelog
 - Tej Ranu created new repository
