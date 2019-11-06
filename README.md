@@ -56,7 +56,7 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 [Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%205%20Sources.md) :point_left:
 
 # Section - 6 Definitions of Terms for Mini-Project 2
-[link]() :point_left:
+[link](https://github.com/tejranu/miniproject/blob/master/Section%20-%206%20Definitions%20of%20Terms%20for%20Mini-Project%202.md) :point_left:
 1. How Python uses Indentation to control Flow
 2. Don't Repeat Yourself
 3. Design Patterns from Gang of Four
@@ -84,6 +84,9 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 - David Tchintchin requested a pull
 - Daniel Zehirov created section 3
 - Daniel Zehirov requested a pull
+- David Tchintchin did parts 1-5 in Section 6
+- Tej Ranu did parts 6-10 in Section 6
+- Daniel Zehirov did parts 11-16 in Section 6
 
 # MiniProject-1 Image
 [Link](https://github.com/tejranu/miniproject/blob/master/Annotation%202019-11-04%20210754.png):point_left:
