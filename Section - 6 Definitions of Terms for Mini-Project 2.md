@@ -29,7 +29,7 @@
 #### Python has many built-in exceptions which forces your program to output an error when something in it goes wrong. When these exceptions occur, it causes the current process to stop and passes it to the calling process until it is handled. If not handled, our program will crash
 
 ### 10. Unit Test
-####
+#### Unit testing, a testing technique using which individual modules are tested to determine if there are any issues by the developer himself. 
 
 ### 11. Constructor
 
