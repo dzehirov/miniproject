@@ -23,10 +23,10 @@
 #### In Python, property() is a built-in function that creates and returns a property object. where, fget is function to get value of the attribute, fset is function to set value of the attribute, fdel is function to delete the attribute and doc is a string (like a comment). An attribute in Python means some possessions that are linked with a particular type of object. Putting it differently, the attributes of a given object are that abilities and data that each object type integrally possesses.
 
 ### 8. Method
-#### In Python, a method is a function that is available for a given object because of the object's type
+#### In Python, a method is a function that is available for a given object because of the object's type.
 
 ### 9. Exception
-####
+#### Python has many built-in exceptions which forces your program to output an error when something in it goes wrong. When these exceptions occur, it causes the current process to stop and passes it to the calling process until it is handled. If not handled, our program will crash
 
 ### 10. Unit Test
 ####
