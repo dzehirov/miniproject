@@ -43,7 +43,7 @@ Factory, or the Factory Method, is used when we do not know what kind of objects
 Decorators are a powerful tool in Python because they allow the user to modify the behavior of a function or class. They can allow programmers to wrap one function in order to extend the behavior of another wrapped function without permanently changing it. Essentially, functions are taken as the argument into another function and then called inside the wrapper function.
 
 ### 14. Extend Class
-
+Extend Class, also referred to as Class Inheritance, is simply creating a class within a class. These subclasses, or *Child Classes*, are able to "inherit" and make use of methods and variables that are present in their *Parent Class*.
 
 ### 15. CSV Files
 
