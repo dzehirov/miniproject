@@ -49,5 +49,6 @@ Extend Class, also referred to as Class Inheritance, is simply creating a class 
 CSV (Comma Separated Value) Files are a simple file format that is used to store tabular data like spreadsheets and databases. CSV is widely used in Python because of its simplicity. They store tabular data in plain text. Each line in the plain text represents a data record, which can contain one or more fields that are separated by a comma (hence the name). 
 
 ### 16. Reading Files
+Python allows users to create a text file or use an existing one and have the system output the contents of the text file. The main part of the reading command comes in the form of ***"contents =f.read()"***, which is a part of a larger cluster of code. An example is shown below.
 
-
+![Read File Image]()
