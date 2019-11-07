@@ -1,7 +1,9 @@
 # Definitions of Terms for Mini-Project 2
 
 ### 1. How Python uses Indentation to control Flow
+### Python uses indentation to determine which blocks of code are related. Unlike many other programming languages, python uses indentation for operation rather than code presentation. 
 
+![Python Indentation Image](https://github.com/tejranu/miniproject/blob/master/Images/python_indents.png)
 
 ### 2. Don't Repeat Yourself
 
