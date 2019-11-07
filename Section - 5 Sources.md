@@ -33,3 +33,5 @@
 ### Section 6 - Section - 6 Definitions of Terms for Mini-Project 2 - [Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%206%20Definitions%20of%20Terms%20for%20Mini-Project%202.md)
 - *Source 1* http://www.peachpit.com/articles/article.aspx?p=1312792&seqNum=3
 - *Source 2* https://dzone.com/articles/software-design-principles-dry-and-kiss
+- *Source 3* http://blackwasp.co.uk/gofpatterns.aspx
+- *Source 4* https://www.geeksforgeeks.org/c-classes-and-objects/
