@@ -4,7 +4,15 @@
 ### Daniel Zehirov
 ### David Tchintchin
 # Section - 1 Command - David Tchintchin
+<<<<<<< HEAD
+<<<<<<< HEAD
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command.md):point_left:
+=======
+[Link]():point_left:
+>>>>>>> ad0e09f5333c3358003e251e16e43ba627484ea8
+=======
 [Link](https://github.com/tejranu/miniproject/blob/master/Section%20-1%20Commands.md):point_left:
+>>>>>>> 25bc5f6ccab2c340e65457aaeaf5746adbb0cd2a
   Section that explains commands and gives example(s) usage for use Vi (Links to an external site.) to create and edit files on Linux and the basic commands that you need to manage the file system:
 
 Questions to answer: What is it? Why do you do it? How do you do it?

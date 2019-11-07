@@ -6,16 +6,18 @@
 ![Python Indentation Image](https://github.com/tejranu/miniproject/blob/master/Images/python_indents.png)
 
 ### 2. Don't Repeat Yourself
-
+### Also know as DRY, the "Don't Repeat Yourself rule, is a coding principle. This principle aims to reduce repeating information multiple times. 
 
 ### 3. Design Patterns from Gang of Four
-
+### Gang of Four Design Patterns are the authors of a book on design patterns for reusable object orientated software. Some examples of these design patterns include: builder, prototype and singleton. A builder is a pattern used to build complex objects in a certain order or by using a special algorithm. Prototypes are pattern used to create new and independent objects by using all properties and methods all ready defined. A singleton pattern is a pattern used to ensure that only one object of a particular class is created. 
 
 ### 4. Class
-
+### In Python, a class is a tool in object orientated programming which contains methods and attributes which can be used by all objects that are created from the class. A class is similar to a blueprint.
+![Python Class Image](https://github.com/tejranu/miniproject/blob/master/Images/python_class.png)
 
 ### 5. Object
-
+### In Python, an object is an instantiation of a class. An object will have access to publicly defined methods and attributes that are defined. 
+![Python Object Image](https://github.com/tejranu/miniproject/blob/master/Images/python_object.png)
 
 
 ### 6. Static
