@@ -51,4 +51,4 @@ CSV (Comma Separated Value) Files are a simple file format that is used to store
 ### 16. Reading Files
 Python allows users to create a text file or use an existing one and have the system output the contents of the text file. The main part of the reading command comes in the form of ***"contents =f.read()"***, which is a part of a larger cluster of code. An example is shown below.
 
-![Read File Image]()
+![Read File Image](https://github.com/tejranu/miniproject/blob/master/Images/Reading%20Files.PNG)
