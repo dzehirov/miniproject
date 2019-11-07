@@ -32,7 +32,8 @@
 #### Unit testing, a testing technique using which individual modules are tested to determine if there are any issues by the developer himself. 
 
 ### 11. Constructor
-
+A constructor in Python is used for instantiating an object. The task of a constructor is to initialize, or assign values to, the data members of the class when an object of class is created. The default constructor declaration starts with "def__init__(self)" and is followed by the body of the constructor. Constructors are always called when an object is created. The figure below shows an example of a constructor that is part of a class, along with some other elements mentioned above like method and class.
+![Constructor Image](https://github.com/tejranu/miniproject/blob/master/Images/Constructor.PNG)
 
 ### 12. Factory
 
