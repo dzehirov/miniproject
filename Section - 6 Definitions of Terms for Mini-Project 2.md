@@ -46,7 +46,7 @@ Decorators are a powerful tool in Python because they allow the user to modify t
 Extend Class, also referred to as Class Inheritance, is simply creating a class within a class. These subclasses, or *Child Classes*, are able to "inherit" and make use of methods and variables that are present in their *Parent Class*.
 
 ### 15. CSV Files
-
+CSV (Comma Separated Value) Files are a simple file format that is used to store tabular data like spreadsheets and databases. CSV is widely used in Python because of its simplicity. They store tabular data in plain text. Each line in the plain text represents a data record, which can contain one or more fields that are separated by a comma (hence the name). 
 
 ### 16. Reading Files
 
