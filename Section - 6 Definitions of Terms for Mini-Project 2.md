@@ -32,14 +32,15 @@
 #### Unit testing, a testing technique using which individual modules are tested to determine if there are any issues by the developer himself. 
 
 ### 11. Constructor
-A constructor in Python is used for instantiating an object. The task of a constructor is to initialize, or assign values to, the data members of the class when an object of class is created. The default constructor declaration starts with "def__init__(self)" and is followed by the body of the constructor. Constructors are always called when an object is created. The figure below shows an example of a constructor that is part of a class, along with some other elements mentioned above like method and class.
+A constructor in Python is used for instantiating an object. The task of a constructor is to initialize, or assign values to, the data members of the class when an object of class is created. The default constructor declaration starts with ***"def__init__(self)"*** and is followed by the body of the constructor. Constructors are always called when an object is created. The figure below shows an example of a constructor that is part of a class, along with some other elements mentioned above like method and class.
+
 ![Constructor Image](https://github.com/tejranu/miniproject/blob/master/Images/Constructor.PNG)
 
 ### 12. Factory
-
+Factory, or the Factory Method, is used when we do not know what kind of objects we want to create in advance. Some objects can be created *only* at the time of execution after a user requests it. With the Factory Method, a class is able to defer instantiation to subclasses contained in the main class.
 
 ### 13. Decorator
-
+Decorators are a powerful tool in Python because they allow the user to modify the behavior of a function or class. They can allow programmers to wrap one function in order to extend the behavior of another wrapped function without permanently changing it. Essentially, functions are taken as the argument into another function and then called inside the wrapper function.
 
 ### 14. Extend Class
 
