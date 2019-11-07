@@ -89,6 +89,6 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 - Daniel Zehirov did parts 11-16 in Section 6
 
 # MiniProject-1 Image
-[Link](https://github.com/tejranu/miniproject/blob/master/Annotation%202019-11-04%20210754.png):point_left:
+[Link](https://github.com/dzehirov/miniproject/blob/master/Images/Annotation%202019-11-04%20210754.png):point_left:
 
 
