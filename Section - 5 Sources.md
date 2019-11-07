@@ -27,4 +27,9 @@
 ### Section 4 - Improving the productivity and competitiveness of a company - [Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%204%20Improving%20the%20productivity%20and%20competitiveness%20of%20a%20company.md)
 - *Source 1* https://www.quickscrum.com/Article/ArticleDetails/5181/1/What-is-Git-What-benefits-does-Git-offer
 - *Source 2* https://www.insightssuccess.com/docker-revolutionizing-container-management-and-helping-businesses-improve-efficiency/
+
 >>>>>>> 25bc5f6ccab2c340e65457aaeaf5746adbb0cd2a
+
+### Section 6 - Section - 6 Definitions of Terms for Mini-Project 2 - [Link](https://github.com/tejranu/miniproject/blob/master/Section%20-%206%20Definitions%20of%20Terms%20for%20Mini-Project%202.md)
+- *Source 1* http://www.peachpit.com/articles/article.aspx?p=1312792&seqNum=3
+- *Source 2* https://dzone.com/articles/software-design-principles-dry-and-kiss
